@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"index.js",
+"sourceRoot":"file:///",
+"sources":["c:/Users/Nicol/Documents/Entwicklungen/openui5/hxUI5-Examples/Debugging/src/Main.hx","C:/Users/Nicol/Documents/Entwicklungen/openui5/hxUI5/src/sap/ui/core/CSSSize.hx","C:/Users/Nicol/Documents/Entwicklungen/openui5/hxUI5/src/sap/ui/core/Collision.hx","C:/Users/Nicol/Documents/Entwicklungen/openui5/hxUI5/src/sap/ui/core/Dock.hx","C:/Users/Nicol/Documents/Entwicklungen/openui5/hxUI5/src/sap/ui/core/ID.hx","C:/Users/Nicol/Documents/Entwicklungen/openui5/hxUI5/src/sap/ui/core/URI.hx"],
+"names":[],
+"mappings":";;WAQC,WACC;AAAA,6BAA4B;AAA5B;YALD,WACC;AAAA;AAAA;;SAOD,WAAkB;AAAA,EAEjB,WAAW,eAAe,UAClB,kCACE,CACR,eAAe,SACR,gEAEP,iBAAiB,SACV,oBACC;AAVO,EAejB,UAAoB,cAAc,UAC1B,CAAC,qBACK;AAjBG,EAoBjB,YAAY;AApBK;iBAwBlB,gBACC;AAAA,0BAAwB;AAAxB;;;6CCdE;AAAA;AAAA;;iDCdA;AAAA;AAAA;;uCCAA;AAAA;AAAA;;mCCAA;AAAA;AAAA;;qCCFA;AAAA;AAAA;;;;;;;"
+}

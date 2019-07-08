@@ -1,0 +1,6 @@
+-cp src
+-D analyzer-optimize
+-main Main
+-lib hxUI5
+-js build/webapp/index.js
+-debug
